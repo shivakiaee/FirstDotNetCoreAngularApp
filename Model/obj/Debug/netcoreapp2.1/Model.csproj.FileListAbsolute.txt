@@ -1,0 +1,9 @@
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\Model\bin\Debug\netcoreapp2.1\Model.deps.json
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\Model\bin\Debug\netcoreapp2.1\Model.dll
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\Model\obj\Debug\netcoreapp2.1\Model.csprojAssemblyReference.cache
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\Model\obj\Debug\netcoreapp2.1\Model.csproj.CoreCompileInputs.cache
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfoInputs.cache
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfo.cs
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\Model\bin\Debug\netcoreapp2.1\Model.pdb
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\Model\obj\Debug\netcoreapp2.1\Model.dll
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\Model\obj\Debug\netcoreapp2.1\Model.pdb

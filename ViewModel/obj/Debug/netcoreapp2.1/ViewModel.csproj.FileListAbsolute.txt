@@ -1,0 +1,12 @@
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\ViewModel\bin\Debug\netcoreapp2.1\ViewModel.deps.json
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\ViewModel\bin\Debug\netcoreapp2.1\ViewModel.dll
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\ViewModel\bin\Debug\netcoreapp2.1\ViewModel.pdb
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\ViewModel\bin\Debug\netcoreapp2.1\Model.dll
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\ViewModel\bin\Debug\netcoreapp2.1\Model.pdb
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.csprojAssemblyReference.cache
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.csproj.CoreCompileInputs.cache
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.AssemblyInfoInputs.cache
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.AssemblyInfo.cs
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.csproj.CopyComplete
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.dll
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.pdb

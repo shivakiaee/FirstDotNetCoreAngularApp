@@ -1,0 +1,14 @@
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\Service\obj\Debug\netcoreapp2.1\Service.csprojAssemblyReference.cache
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\Service\obj\Debug\netcoreapp2.1\Service.csproj.CoreCompileInputs.cache
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfoInputs.cache
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfo.cs
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\Service\bin\Debug\netcoreapp2.1\Service.deps.json
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\Service\bin\Debug\netcoreapp2.1\Service.dll
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\Service\bin\Debug\netcoreapp2.1\Service.pdb
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\Service\bin\Debug\netcoreapp2.1\Model.dll
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\Service\bin\Debug\netcoreapp2.1\Repository.dll
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\Service\bin\Debug\netcoreapp2.1\Model.pdb
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\Service\bin\Debug\netcoreapp2.1\Repository.pdb
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\Service\obj\Debug\netcoreapp2.1\Service.csproj.CopyComplete
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\Service\obj\Debug\netcoreapp2.1\Service.dll
+E:\Projects\myProjects\FirstDotNetCoreAngularApp\Service\obj\Debug\netcoreapp2.1\Service.pdb
